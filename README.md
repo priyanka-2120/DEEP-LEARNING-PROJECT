@@ -25,3 +25,7 @@ The implementation, in TensorFlow or PyTorch, emphasizes modularity and scalabil
 ![Image](https://github.com/user-attachments/assets/4d0eb573-de68-4a70-83ef-dc60417453d6)
 ![Image](https://github.com/user-attachments/assets/2e32e09b-0e0f-49b6-9dfa-877dd285ee22)
 ![Image](https://github.com/user-attachments/assets/4994ffb3-ac1a-48e5-a6f6-0c867ee2773a)
+
+#Output
+
+![Image](https://github.com/user-attachments/assets/b482281e-4b05-4847-a186-0edca0b8a92a)
