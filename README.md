@@ -20,4 +20,8 @@ Alternatively, for NLP, the project leverages a dataset like IMDB reviews or a c
 
 The implementation, in TensorFlow or PyTorch, emphasizes modularity and scalability. Key deliverables include a trained model, a script for inference, and visualizations such as training/validation accuracy and loss curves (using Matplotlib or Seaborn), confusion matrices, and sample predictions (e.g., classified images or text outputs). For image classification, visualized outputs may include test images with predicted labels; for NLP, sample text with predicted sentiments.
 
-#Outputs
+#Inputs
+
+![Image](https://github.com/user-attachments/assets/4d0eb573-de68-4a70-83ef-dc60417453d6)
+![Image](https://github.com/user-attachments/assets/2e32e09b-0e0f-49b6-9dfa-877dd285ee22)
+![Image](https://github.com/user-attachments/assets/4994ffb3-ac1a-48e5-a6f6-0c867ee2773a)
